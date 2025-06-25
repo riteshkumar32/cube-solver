@@ -30,7 +30,4 @@ The project is structured into modular components like Model, Solver, and Databa
 - **Pattern Databases** – Used for faster solution finding
 - **Object-Oriented Design** – For clean and reusable architecture
 
----
-
-## 📂 Folder Structure
 
