@@ -1,7 +1,4 @@
-//
-// Created by Lakshya Mittal on 04-01-2022.
-//
-
+ 
 #include<bits/stdc++.h>
 #include "../Model/RubiksCube.h"
 #include "DFSSolver.h"
